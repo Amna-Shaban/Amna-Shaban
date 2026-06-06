@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Amna Shaban 👋
 
-<!--
-**Amna-Shaban/Amna-Shaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Software Engineering student dedicated to building robust web applications, optimizing algorithms, and exploring modern tech stacks.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript, Python, C++, SQL
+- **Frameworks & Libraries:** React, Node.js, Tailwind CSS
+- **Tools & Databases:** Git, GitHub, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- 🔭 Working on a web-based **Network Path Optimizer** that visualizes complex routing algorithms.
+- 📚 Deepening my knowledge in **Data Structures & Algorithms (DSA)** and backend architectures.
+- 💼 Actively looking for freelance opportunities in web development and digital optimization.
+
+## 📫 Connect with me
+- **Email:** amnashaban06@gmail.com
