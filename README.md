@@ -1,6 +1,6 @@
 # Hi there, I'm Amna Shaban 👋
 
-A passionate Software Engineering student dedicated to building robust web applications, optimizing algorithms, and exploring modern tech stacks.
+A passionate Software Engineer dedicated to building robust web applications, optimizing algorithms, and exploring modern tech stacks.
 
 ## 🛠️ Tech Stack & Skills
 
