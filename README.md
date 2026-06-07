@@ -19,3 +19,5 @@ A passionate Software Engineering student dedicated to building robust web appli
 
 ## 📫 Connect with me
 - **Email:** amnashaban06@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-shaban-)
