@@ -1,4 +1,4 @@
-# Hi there, I'm Amna Shaban 👋
+# Hi there,👋
 
 A passionate Software Engineer dedicated to building robust web applications, optimizing algorithms, and exploring modern tech stacks.
 
