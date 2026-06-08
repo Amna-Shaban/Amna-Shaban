@@ -2,7 +2,6 @@
 
 A passionate Software Engineer dedicated to building robust web applications, optimizing algorithms, and exploring modern tech stacks.
 
-
 ## 🛠️ Tech Stack & Skills
 
 #### 💻 Languages & Databases
