@@ -20,8 +20,7 @@ A passionate Software Engineer dedicated to building robust web applications, op
 
 ---
 
-## 📬 Connect with me
+## 🤝 Connect with Me
 
-* **Email:** amnashaban06@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-shaban-)
+* **LinkedIn:** [Aamna Shaban](https://www.linkedin.com/in/aamna-shaban-205a48414)
+* **Email:** [amnashaban06@gmail.com]
